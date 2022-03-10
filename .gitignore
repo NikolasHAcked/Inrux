@@ -1,18 +1,12 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+[SETTINGS]
+Models=1
+Animations=1
+GUI=1
+Shapes=1
+Discord=1
+Viewdistance=1024
 
-# Other files and folders
-.settings/
+[ADVANCED]
+D3DMLF=0
+CacheD3D=0
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
